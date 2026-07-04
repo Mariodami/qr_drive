@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<title>QR Redirect</title>
+
+<script>
+const driveLink = "https://drive.google.com/drive/folders/11top98b_WeZU_XvI4BK8JDg3S09bUtIH?usp=drive_link";
+window.location.href = driveLink;
+</script>
+
+</head>
+
+<body>
+<p>Reindirizzamento in corso...</p>
+</body>
+</html>
